@@ -6,7 +6,7 @@ require 'hoe'
 Hoe.plugin :seattlerb
 
 Hoe.spec 'minitest-macruby' do
-  self.version = '2.0.0' # HACK
+  self.version = '1.0.0' # HACK
 
   developer 'Ryan Davis', 'ryand-ruby@zenspider.com'
 
