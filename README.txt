@@ -1,6 +1,7 @@
 = minitest-macruby
 
-* http://rubyforge.org/projects/bfts
+home :: https://github.com/seattlerb/minitest-macruby
+rdoc :: http://bfts.rubyforge.org/minitest-macruby
 
 == DESCRIPTION:
 
