@@ -12,7 +12,7 @@ Hoe.spec 'minitest-macruby' do
 
   self.rubyforge_name = 'bfts'
 
-  extra_deps << ['minitest', '~> 1.7']
+  dependency "minitest", "~> 4.0"
 end
 
 # vim: syntax=ruby
