@@ -1,4 +1,4 @@
-require 'minitest/unit'
+require 'minitest/test'
 
 class MiniTest::Unit
   def self.run_macruby_tests
